@@ -1,0 +1,8 @@
+{
+  "USER": {
+    "NOT_FOUND": "User {name} not found",
+    "UNAUTHORIZED": "You are not authorized to perform this action",
+    "EXISTS": "User already exists",
+    "INVALID_CREDENTIALS": "Invalid credentials"
+  }
+}
